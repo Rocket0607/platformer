@@ -1,0 +1,62 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++14",
+      "-m64",
+      "-g",
+      "-Wall",
+      "-I",
+      "include",
+      "src/entity.cpp"
+    ],
+    "directory": "/home/rohitk/Documents/cppCode/platformer",
+    "file": "/home/rohitk/Documents/cppCode/platformer/src/entity.cpp"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++14",
+      "-m64",
+      "-g",
+      "-Wall",
+      "-I",
+      "include",
+      "src/main.cpp"
+    ],
+    "directory": "/home/rohitk/Documents/cppCode/platformer",
+    "file": "/home/rohitk/Documents/cppCode/platformer/src/main.cpp"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++14",
+      "-m64",
+      "-g",
+      "-Wall",
+      "-I",
+      "include",
+      "src/player.cpp"
+    ],
+    "directory": "/home/rohitk/Documents/cppCode/platformer",
+    "file": "/home/rohitk/Documents/cppCode/platformer/src/player.cpp"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++14",
+      "-m64",
+      "-g",
+      "-Wall",
+      "-I",
+      "include",
+      "src/renderwindow.cpp"
+    ],
+    "directory": "/home/rohitk/Documents/cppCode/platformer",
+    "file": "/home/rohitk/Documents/cppCode/platformer/src/renderwindow.cpp"
+  }
+]
